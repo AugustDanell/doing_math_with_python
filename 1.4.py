@@ -5,6 +5,7 @@
 
 from fractions import Fraction
 
+# Using placeholders in format, like in C# syntax.
 def add(a, b):
     print("Result of addition is: {0}".format(a+b))
 
