@@ -20,6 +20,7 @@ if __name__ == '__main__':
         s += "odd:"
 
     for i in range(0,9):
-        s += " " + str(i*2 + n)
-
+        s += " " + str(i*2 + n) # Appending alternating numbers into a string s with a starting blankspace.
+    
+    # Strip removes starting/ending blankspaces, which we created above.
     print(s.strip())
