@@ -1,0 +1,15 @@
+from sympy import solve, Symbol, pprint
+
+''' Linear Equations
+    Step 1: Creating symbols x and y.
+    Step 2: Defining row 1 and row 2 in a 2x2 matrix, as well as the sum of each expression.
+    Step 3: Printing the solved equations using pretty print (pprint).
+'''
+
+x = Symbol('x')
+y = Symbol('y')
+
+row_one = 4*x + 5*y - 5
+row_two = x + 2*y - 12
+
+pprint(solve((row_one, row_two), dict = True))
