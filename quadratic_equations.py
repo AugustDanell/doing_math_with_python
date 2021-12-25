@@ -8,6 +8,7 @@ from sympy import solve, Symbol,pprint
 
 x = Symbol('x')
 
+print('Solutions:')
 # Expression with real roots:
 expr = x**2 - 4*x - 15
 pprint(solve(expr, dict=True))
