@@ -18,6 +18,6 @@ In chapter 4 we are using SymPy for different mathematical ends, solving equatio
 
 Chapter 5 is all about sets and probabilities. We learn of how to use intersections, unions, check if a set is a superset or subset of another etc. 
 
-Chapter 6. TODO
+Chapter 6 is about drawing differnt geometric figures using patches and also drawing figures with scatter points using different mathematical transformations that transform an input into beautiful patterns. 
 
 Chapter 7 is all about calculus, using sympy to calculate limits, derivatives, solving maximization/minimization problems and more. 
