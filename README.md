@@ -8,7 +8,7 @@ The book Doing Math With Python looks to unify science, maths and Python. The bo
 https://www.amazon.se/Doing-Math-Python-Programming-Statistics/dp/1593276400/ref=asc_df_1593276400/?tag=shpngadsglede-21&linkCode=df0&hvadid=476446819182&hvpos=&hvnetw=g&hvrand=13523034651826554747&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9062451&hvtargid=pla-448903731067&psc=1
 
 ## Chapters
-Chapter 1 one is just basic, normal arithmetic. 
+Chapter 1 one is just basic, normal arithmetic, with the addition of fractions like 3/7 for example. 
 
 In Chapter 2 the author introduces the use of the famous library pyplot and some fun exercises pertaining to just that, for instance plotting the temperature differance of different cities in the world as we look throughout a day. 
 
@@ -20,4 +20,4 @@ Chapter 5 is all about sets and probabilities. We learn of how to use intersecti
 
 Chapter 6 is about drawing differnt geometric figures using patches and also drawing figures with scatter points using different mathematical transformations that transform an input into beautiful patterns. 
 
-Chapter 7 is all about calculus, using sympy to calculate limits, derivatives, solving maximization/minimization problems and more. 
+Chapter 7 is all about calculus, using sympy to calculate limits, derivatives, solving maximization/minimization problems and more. One interesting exercise is to find out if a function F is continous in a point P using left and right limits.  
